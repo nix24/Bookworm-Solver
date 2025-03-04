@@ -153,7 +153,7 @@ export default function AboutScreen() {
               
               <TouchableOpacity 
                 style={[styles.button, { marginTop: 20 }]}
-                onPress={() => openLink('https://github.com/yourusername/bookworm-solver')}
+                onPress={() => openLink('https://github.com/nix24/Bookworm-Solver')}
               >
                 <LinearGradient
                   colors={[colors.buttonGradientStart, colors.buttonGradientEnd]}
